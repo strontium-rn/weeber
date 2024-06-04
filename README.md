@@ -1,1 +1,1 @@
-web scrapping onlinekhabar.com using beautiful soup
+I just completed a web scraping project using Python and Beautiful Soup. I wrote a script to scrape news article titles and links from the OnlineKhabar website, saved the data to a file, and then uploaded my project to GitHub.
